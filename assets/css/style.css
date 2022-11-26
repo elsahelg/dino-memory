@@ -50,7 +50,7 @@ body {
     transform: rotateY(180deg) rotateZ(50deg);
 }
 
-.cards.flipped. .front {
+.cards.flipped .front {
     transform: rotateY(180deg) rotateZ(50deg);
 }
 
